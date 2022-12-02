@@ -11,6 +11,7 @@ Com tudo isso foi preciso fazer os seguintes requisitos:
 #
 ## Tecnologias utilizadas
  - Node.js
+ - TypeScript
  - Express
  - Mongoose
  - MongoDB
